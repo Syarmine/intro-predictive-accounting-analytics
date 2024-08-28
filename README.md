@@ -1,6 +1,6 @@
 # Intro to Predictive Accounting Analytics
 
-This project combines predictive analytics with traditional financial analysis techniques for comprehensive accounting insights.
+This project is a demonstration for current cohort of accounting students that undertaking Chartered Accounting Data Analytics elective to demonstrate a combination of predictive analytics with traditional financial analysis techniques for comprehensive accounting insights.
 
 ## Features
 
