@@ -121,3 +121,9 @@ intro-predictive-accounting-analytics/
 Make sure you're in the project root directory when activating the virtual environment and running the scripts.
 - If you're using an IDE like PyCharm or VS Code, you may need to select the virtual environment as the Python interpreter for your project.
 - If you're still having trouble, please let me know what specific error you're encountering, and I'll be happy to help further.
+
+- ## Repository Stats
+![GitHub language count](https://img.shields.io/github/languages/count/Syarmine/intro-predictive-accounting-analytics)
+![GitHub top language](https://img.shields.io/github/languages/top/Syarmine/intro-predictive-accounting-analytics)
+![GitHub repo size](https://img.shields.io/github/repo-size/Syarmine/intro-predictive-accounting-analytics)
+![GitHub last commit](https://img.shields.io/github/last-commit/Syarmine/intro-predictive-accounting-analytics)
